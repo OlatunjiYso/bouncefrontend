@@ -1,0 +1,25 @@
+.top-nav {
+    background: inherit;
+    display: flex;
+    justify-content:flex-start;
+    align-items: center;
+    margin-left: 3em;
+}
+
+.top-nav > ul {
+    padding-left: 30px;
+}
+
+.top-nav ul li {
+    list-style-type: none;
+    display: inline-block;
+    margin: 0 30px 0 30px;
+    font-weight: 400;
+    color: rgb(46, 44, 44);
+}
+
+.top-nav ul li:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+

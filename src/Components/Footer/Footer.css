@@ -1,0 +1,20 @@
+.foot-nav {
+    font-size: 16px;
+    background: inherit;
+    display: flex;
+    align-items:center;
+    width: 100%;
+}
+
+.foot-nav > ul {
+   display: flex;
+   justify-content: space-around;
+   width: 100%;
+}
+
+.foot-nav ul li {
+    list-style-type: none;
+}
+
+
+

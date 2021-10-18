@@ -1,5 +1,5 @@
 import axios from 'axios';
-const baseUrl = 'http://localhost:8080/api/v1';
+const baseUrl = 'http://localhost:8585/api/v1';
 
 
 export const addUser = async(user)=> {
